@@ -36,8 +36,8 @@ h2{font-family: 'Lucida Sans';}
     margin-right: 400px;
     padding-left:5em;
     padding-right:5em;
-    border-left:0.5px solid rgb(252, 248, 52); ;
-    border-right: 0.5px solid rgb(252, 248, 52);;
+    border-left: 3px solid rgba(252, 199, 52, 0.651); 
+    border-right: 3px solid rgba(252, 199, 52, 0.651);
 }
 
 h2 {
@@ -83,7 +83,7 @@ h2 {
     padding-left: 2em;
 	font-size: 14px;
 	color: rgba(0, 0, 0, 0.582);
-	border-top: 0.5px solid rgb(252, 248, 52);
+	border-top: 0.5px solid rgba(252, 199, 52, 0.651);
 }
 
 
